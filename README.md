@@ -1,16 +1,12 @@
-## Hi there 👋
+<h2 align="center"> ⭐️ Hi there, I'm Angelo! </h2>
 
-<!--
-**accelo0/accelo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/reistence/reistence/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/reistence/reistence/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+ 
+<h3 align="center">
+  <b>Follow me</b>
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href='https://twitter.com/aangeloprs'><img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg' width='29'></a> 
+<a href='https://www.instagram.com/angelopruscino/'><img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' width='30'></a>
+</p>
