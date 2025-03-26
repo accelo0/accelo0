@@ -7,6 +7,6 @@
 </h3>
 
 <p align="center">
-<a href='https://twitter.com/aangeloprs'><img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg' width='29'></a> 
+<a href='https://twitter.com/angelopruscino'><img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg' width='29'></a> 
 <a href='https://www.instagram.com/angelopruscino/'><img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg' width='30'></a>
 </p>
